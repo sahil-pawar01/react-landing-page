@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: neu;
+  src: url(../NeueMachina-Regular.woff2);
+}
+
+* {
+  font-family: neu;
+}
+
+.page1 {
+  height: calc(100vh - 84px);
+}
